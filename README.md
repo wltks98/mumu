@@ -11,4 +11,4 @@
 
 <img src="https://user-images.githubusercontent.com/79401359/146905645-20ab179c-150f-484d-9728-8b942230eb40.png"  width="400" height="400">
 
-<img src="https://scikit-learn.org/stable/_images/sphx_glr_plot_compare_methods_001.png"  width="400" height="400">
+<img src="https://scikit-learn.org/stable/_images/sphx_glr_plot_compare_methods_001.png"  width="600" height="400">
